@@ -36,3 +36,15 @@ and the possibility of errors.
  To ensure the security and privacy of the data in the system
 <br>
 <br>
+<b> CONCLUSION </b> 
+<br>
+Theft Report Management System is an application comes in  handy to report a theft more 
+rapid when a theft takes place. Whereas in traditional way of reporting a theft takes lot of time 
+like going physically to the concerned department, writing the complaint describing the theft 
+scenario and submitting the report to the concerned officer. Here, Theft Report Management 
+System makes to report a theft sooner and efficiently by eliminating the lengthy process of 
+traditional way of reporting a theft. 
+Theft Report Management System is helpful in various ways like viewing details, Report and 
+also enables to track the complaint and the status of the complaint. By this anyone can report a 
+incident without and hesitation. 
+
