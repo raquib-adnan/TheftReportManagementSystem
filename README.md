@@ -106,6 +106,3 @@ The Theft Report Management System offers a modern solution to the challenges po
    - Build and run the application.
 
 ---
-
-## 📂 Repository Structure
-
