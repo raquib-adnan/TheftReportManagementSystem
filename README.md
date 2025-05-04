@@ -10,19 +10,37 @@ The Theft Report Management System is a desktop application developed using **VB
 
 ## 📷 Project Screenshots
 
-### 🏠 Home Page
+### Startup Page
+
+![Startup Page](images/startup.png)
+
+### Home Page
 
 ![Home Page](images/homepage.png)
 
-### 📝 Theft Report Entry Form
+### Theft Report Complaint Entry Form
 
-![Theft Report Entry](images/theft_entry_form.png)
+![Theft Report Entry](images/complaintregistrationpage.png)
 
-### 📊 Theft Report Summary
+### Theft Report Complaint Types
 
-![Theft Report Summary](images/theft_report_summary.png)
+![Theft Report Summary](images/complaints.png)
 
-*Note: Replace the above image filenames with the actual names of your images in the `images` folder.*
+### Theft Report Status Checking Page
+
+![Theft Report Summary](images/checkstatus.png)
+
+### Theft Report Crime Laws
+
+![Theft Report Summary](images/laws.png)
+
+### Theft Reports Complaint Retrieval Page
+
+![Theft Report Summary](images/retrievalpage.png)
+
+### Theft Report Summary
+
+![Theft Report Summary](images/reportspage.png)
 
 ---
 
